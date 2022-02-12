@@ -1,8 +1,6 @@
 #--------------------------------------------------------------------------------------
-# UCL -- Institute of Finance & Technology
-# Student Name  : Muideen Abubakar
-# Student Number : 21125043
-# Coursework Two : Incorrect Trade Detection
+# Name  : Muideen Abubakar
+# Doc Title : Incorrect Trade Detection
 #--------------------------------------------------------------------------------------
 
 library(lubridate)
