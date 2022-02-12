@@ -1,8 +1,6 @@
 #--------------------------------------------------------------------------------------
-# UCL -- Institute of Finance & Technology
-# Student Name  : Muideen Abubakar
-# Student Number : 21125043
-# Coursework Two : Helper Functions
+# Name  : Muideen Abubakar
+# Doc Title : Helper Functions
 #--------------------------------------------------------------------------------------
 
 #-- Print info log
