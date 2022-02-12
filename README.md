@@ -1,8 +1,6 @@
 #--------------------------------------------------------------------------------------
-# UCL -- Institute of Finance & Technology
-# Student Name  : Muideen Abubakar
-# Student Number : 21125043
-# Coursework Two : README 
+# Name  : Muideen Abubakar
+# Doc Title : README 
 #--------------------------------------------------------------------------------------
 The objective: To detect incorrect trades for trades executed on 11-Nov-2021 and 12-Nov-2021
 
